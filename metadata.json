@@ -1,0 +1,5 @@
+{
+  "name": "BioScreen: Virtual Screening",
+  "description": "A virtual screening dashboard for calculating molecular similarity using RDKit (backend) and visualizing results in 3D.",
+  "requestFramePermissions": []
+}
